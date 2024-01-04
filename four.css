@@ -1,0 +1,24 @@
+.flag{
+    height: 300px;
+    width: 500px;
+    background-color: green;
+    border: 2px solid black;
+    margin-left: 550px;
+    margin-top: 10px;
+}
+.stick{
+    height: 200px;
+    width: 200px;
+   background-color: red;
+   margin-left: 150px;
+   margin-top: 50px;
+   border-radius: 100px;
+   position: relative;
+   float: left;
+}
+.round{
+    height: 600px;
+    width: 20px;
+    background-color: burlywood;
+
+}
